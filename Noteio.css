@@ -155,6 +155,7 @@ body {
       margin:7px 0 7px 10px;
     }
     #view-tab {
+      z-index:100;
       display:none;
       border-radius:8px;
       background-color:#FFF;
